@@ -1,0 +1,19 @@
+{
+  "name": "control-de-versiones",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresquintoquintobejarano-art/Control-De-Versiones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresquintoquintobejarano-art/Control-De-Versiones/issues"
+  },
+  "homepage": "https://github.com/andresquintoquintobejarano-art/Control-De-Versiones#readme"
+}
